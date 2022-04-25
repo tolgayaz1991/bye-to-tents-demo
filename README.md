@@ -1,7 +1,7 @@
 # bye-to-tents-demo (by Tolga Yaz)
 Ncd Demo Project
 
-This is a demo project for a funding campaign called "Bye To Tents".
+This is a demo project for a planned funding campaign called "Bye To Tents".
 
 The campaign's goal is to build practical houses for needy people who live in tents.
 
