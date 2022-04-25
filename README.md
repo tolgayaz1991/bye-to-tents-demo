@@ -1,5 +1,5 @@
-# bye-to-tents-demo
-Ncd Demo Project by Tolga Yaz
+# bye-to-tents-demo (by Tolga Yaz)
+Ncd Demo Project
 
 This is a demo project for a funding campaign called "Bye To Tents".
 
