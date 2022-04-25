@@ -15,7 +15,7 @@ The loom video for the project: https://www.loom.com/share/c3dcfe2f476e4b0e88de0
 
 NodeJs, git, yarn, near-cli
 
-#Installation
+# Installation
 
 ### 1. Clone this repo
 ### 2. Run yarn
