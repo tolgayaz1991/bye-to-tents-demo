@@ -54,7 +54,7 @@ near call $CONTRACT donateById '{"amount":"10","houseId":"1"}' --accountId $CONT
 ## 3. getDetailsByHouseId
 
 - To see the funding situation of a house
-- House Id should be provided as arguments
+- House Id should be provided as argument
 
 ### An example call:
 near call $CONTRACT getDetailsByHouseId '{"houseId":"1"}' --accountId $CONTRACT
